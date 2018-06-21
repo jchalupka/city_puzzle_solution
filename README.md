@@ -1,3 +1,5 @@
+Solution to:
+```
 ['Tokyo', 'London', 'Rome', 'Donlon', 'Kyoto', 'Paris']
 // YOUR ALGORITHM
 [
@@ -6,3 +8,4 @@
     [ 'Rome' ],
     [ 'Paris' ]
 ]
+```
